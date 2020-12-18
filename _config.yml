@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 layout: post
 title: coLAB / UFF
 description: Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração
-show_downloads: true
+show_downloads: false
 header:
   actions:
     - label: "News"
