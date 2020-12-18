@@ -1,11 +1,5 @@
 theme: jekyll-theme-cayman
 layout: post
-title: coLAB / UFF
-description: Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração
+title: coLAB
+description: Repositório de <em>scripts</em> e *datasets* do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração
 show_downloads: false
-header:
-  actions:
-    - label: "News"
-      url: "/news/index.html"
-    - label: "Contact"
-      url: "/contact/index.html"
