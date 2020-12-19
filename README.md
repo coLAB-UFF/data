@@ -36,7 +36,7 @@ The public repository for *datasets* and *scripts* of the coLAB research group i
 
 Other datasets and materials that eventually contain private data are not included in public repositories.
 
-Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our [coLAB Figshare repository](https://figshare.com/projects/Papers_coLAB/35102).
+Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our *[coLAB Figshare repository]*(https://figshare.com/projects/Papers_coLAB/35102).
 
 ## How do one access data
 
