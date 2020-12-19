@@ -6,7 +6,7 @@
 <small>*[[versão pt_BR]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | [[EN version]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+<a class="github-button" href="https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md" data-icon="octicon-comment" data-size="large" aria-label="versão pt_BR">Versão pt_BR</a>
 
 ## Quem somos? | *Who we are?*
 
