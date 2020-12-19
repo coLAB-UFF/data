@@ -1,6 +1,6 @@
 # Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-<small>*[versão pt_BR](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | [EN version](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
+<small>*[versão pt_BR](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | :uk: [EN version](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
 
 ## Quem somos? | *Who we are?*
 
