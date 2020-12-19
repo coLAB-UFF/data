@@ -1,9 +1,24 @@
 
-# Welcome to GitHub Pages
+# O que é este repositório?
 
-You can use the [editor on GitHub](https://github.com/coLAB-UFF/colab.uff.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+O [Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB)](http://colab.uff.br), sediado na Universidade Federal Fluminense (UFF), desenvolve investigações orientadas a compreender as interfaces entre tecnologias da comunicação e culturas políticas, com especial ênfase nos fenômenos relacionados aos repertórios de ativismo digital, às estratégias retóricas e discursivas de atores do campo formal da política, às dinâmicas de sociabilidade e letramento político, à economia política da informação e à circulação de desinformação e discurso de ódio. Associado ao Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD), o grupo reúne pesquisadores dedicadas à área da comunicação política, em diferentes níveis de formação. As linhas de pesquisa contemplam estudos sobre estratégias de comunicação e opinião pública, culturas políticas e ação coletiva, e humor e discussão política.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O repositório de *datasets* e *scripts* públicos do grupo de pesquisa coLAB é um espaço que congrega diferentes bancos de dados e aplicações utilizadas por pesquisadores associados ao grupo. Os dados são disponibilizados de forma aberta para eventuais interessados. Recomenda-se a consulta prévia aos responsáveis, por meio do email [colab@midia.uff.br](mailto:colab@midia.uff.br), para orientações gerais sobre o uso dos dados.
+
+# Para que serve este repositório?
+
+O objetivo deste repositório é armazenar e disponibilizar publicamente dados e materiais de pesquisa empregados em produção científicas e tecnológicas de membros do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB).
+
+# Quem pode utilizar os dados disponíveis neste repositório?
+
+
+# Como utilizar os dados disponíveis neste repositório?
+
+
+# Como colaborar?
+
+
+# Onde encontrar mais informações
 
 
 ### Markdown
