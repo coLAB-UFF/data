@@ -20,10 +20,11 @@ O repositório de *datasets* e *scripts* públicos do grupo de pesquisa coLAB é
 
 * *Datasets* e *Filesets*: conjuntos de dados previamente selecionados para pesquisas executadas por membros do grupo. Os arquivos podem estar em diversos formatos, como JPEG, MP4, GIF e outros. Os critérios de seleção e recorte dos dados são apresentados na documentação de cada repositório e/ou no artigo ou tese que o origina.
 
-* *Livros de códigos* (*Codebooks*): materiais suplementares de pesquisa que indicam procedimentos de interpretação e análise qualitativa de dados em pesquisas que envolvem análise de conteúdo. São instrumentos que guiam os codificadores na operação de tratamento de dados categóricos.
+* *Livros de códigos* (*Codebooks*): materiais suplementares de pesquisa que indicam procedimentos de interpretação e análise qualitativa de dados em investigações que envolvem análise de conteúdo. São instrumentos que guiam os codificadores na operação de tratamento de dados categóricos.
 
-* *Scripts*
-* Codebooks
+* *Scripts*: programas escritos para automatizar um conjunto de procedimentos durante a etapa de análise exploratória de dados. Os *scripts* apresentados nesse repositório têm a função de tratar e modelar os bancos de dados utilizados em pesquisas desenvolvidas por membros do grupo.
+
+* Documentação: documentos simples informando sobre procedimentos adotados em pesquisas empreendida.
 
 + Figshare
 Outros dados privados de whatsapp e memes p.ex. não são fornecidos publicamente
