@@ -1,6 +1,12 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 # Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-<small>*[versão pt_BR](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | :uk: [EN version](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
+<small>*[[versão pt_BR]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | [[EN version]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 ## Quem somos? | *Who we are?*
 
