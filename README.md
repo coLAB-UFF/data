@@ -1,8 +1,10 @@
 # Repositório de dados e *scripts* públicos
 
-## O que é este repositório?
+## Quem somos?
 
 O [Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB)](http://colab.uff.br), sediado na Universidade Federal Fluminense (UFF), desenvolve investigações orientadas a compreender as interfaces entre tecnologias da comunicação e culturas políticas, com especial ênfase nos fenômenos relacionados aos repertórios de ativismo digital, às estratégias retóricas e discursivas de atores do campo formal da política, às dinâmicas de sociabilidade e letramento político, à economia política da informação e à circulação de desinformação e discurso de ódio. Associado ao Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD), o grupo reúne pesquisadores dedicadas à área da comunicação política, em diferentes níveis de formação. As linhas de pesquisa contemplam estudos sobre estratégias de comunicação e opinião pública, culturas políticas e ação coletiva, e humor e discussão política.
+
+O coLAB abriga diferentes projetos.
 
 #MUSEU, DDoSLab etc
 
@@ -10,7 +12,7 @@ O [Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da 
 
 O objetivo deste repositório é armazenar e disponibilizar publicamente dados e materiais de pesquisa empregados em produção científicas e tecnológicas de membros do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB).
 
-## Que tipo de materiais estão disponíveis neste repositório?
+## Que materiais estão disponíveis publicamente?
 
 O repositório de *datasets* e *scripts* públicos do grupo de pesquisa coLAB é um espaço que congrega diferentes bancos de dados e aplicações utilizadas por pesquisadores associados ao grupo. Os dados são disponibilizados de forma aberta para eventuais interessados. Os dados tornados públicos referem-se a:
 
@@ -24,8 +26,9 @@ O repositório de *datasets* e *scripts* públicos do grupo de pesquisa coLAB é
 * Codebooks
 
 + Figshare
+Outros dados privados de whatsapp e memes p.ex. não são fornecidos publicamente
 
-## Quais são os materiais disponíveis? / Como acesso os dados?
+## Como acesso os dados?
 
 
 ## Quem pode utilizar os dados disponíveis neste repositório?
