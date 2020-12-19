@@ -1,10 +1,6 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 # Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://colab-uff.github.io/README_en.md" data-icon="comment" data-size="large" aria-label="english version">English</a>   <a class="github-button" href="https://colab-uff.github.io/README.md" data-icon="comment" data-size="large" aria-label="versão pt_BR">Português</a>
+*[English below]*
 
 ## Quem somos? | *Who we are?*
 
