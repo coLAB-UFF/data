@@ -1,6 +1,6 @@
 # Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-<span style="color:#BCBCBC">*[English below]*</span>
+<small><span style="color:#ABABAB">*[English below]*</span></small>
 
 ## Quem somos? | *Who we are?*
 
