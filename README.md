@@ -1,12 +1,36 @@
-# Repositório de dados e *scripts* públicos | Repository for public datasets and scripts
+# Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-## Quem somos? | Who we are?
+## Quem somos? | *Who we are?*
 
-O [Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB)](http://colab.uff.br), sediado na Universidade Federal Fluminense (UFF), desenvolve investigações orientadas a compreender as interfaces entre tecnologias da comunicação e culturas políticas, com especial ênfase nos fenômenos relacionados aos repertórios de ativismo digital, às estratégias retóricas e discursivas de atores do campo formal da política, às dinâmicas de sociabilidade e letramento político, à economia política da informação e à circulação de desinformação e discurso de ódio. Associado ao Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD), o grupo reúne pesquisadores dedicadas à área da comunicação política, em diferentes níveis de formação. As linhas de pesquisa contemplam estudos sobre estratégias de comunicação e opinião pública, culturas políticas e ação coletiva, e humor e discussão política.
+O [Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB)](http://colab.uff.br), sediado na Universidade Federal Fluminense (UFF), desenvolve investigações orientadas a compreender as interfaces entre tecnologias da comunicação e culturas políticas, com especial ênfase nos fenômenos relacionados aos repertórios de ativismo digital, às estratégias retóricas e discursivas de atores do campo formal da política, às dinâmicas de sociabilidade e letramento político, à economia política da informação e à circulação de desinformação e discurso de ódio. Associado ao Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD), o grupo reúne pesquisadores dedicados à área da comunicação política, em diferentes níveis de formação. As linhas de pesquisa contemplam estudos sobre: estratégias de comunicação e opinião pública, culturas políticas e ação coletiva, e humor e discussão política.
 
-O coLAB abriga diferentes projetos.
+O coLAB abriga diferentes projetos. Entre os projetos que fornecem dados públicos e materiais para este repositório encontram-se:
 
-#MUSEU, DDoSLab etc
+* **#MUSEUdeMEMES**: O [#MUSEUdeMEMES](http://museudememes.com.br) é um projeto de extensão e divulgação científica voltado para a pesquisa sobre o universo temático dos memes de internet. 
+
+* **DDoS Lab**: O Laboratório de Combate à Desinformação e ao Discurso de Ódio em Sistemas de Comunicação em Rede (DDoS Lab) desenvolve um monitoramento contínuo e regular sobre a atividade de redes extremistas no WhatsApp e em outras plataformas sociais online.
+
+* **Observatório de Tretas**: O Observatório de Tretas é um projeto em parceria com Rodrigo Carreiro (UFBA) e o Instituto Nacional de Ciência e Tecnologia em Democracia Digital (INCT.DD). Seu principal objetivo é desenvolver metodologia de monitoramento sistemático de discussões políticas online, especialmente nos ambientes do Twitter e do Facebook.
+
+* **Jogos de Cooperação**: O projeto Jogos de Cooperação foi desenvolvido entre 2012 e 2017 e desenvolveu um *box* de jogos parapedagógicos envolvendo dilemas de ação cooperativa, como o renomado Dilema do Prisioneiro. O projeto foi contemplado, em 2015, com o prêmio Destaque à Iniciação Científica e Tecnológica do CNPq.
+
+Além destes projetos, os repositórios disponibilizam dados de uma série de outras iniciativas do coLAB e de seus integrantes.
+
+:us::uk:
+
+The [Laboratory for Research in Communication, Political Cultures and Collaborative Economics (coLAB)] (http://colab.uff.br), based at the Universidade Federal Fluminense (UFF), develops research aimed at understanding the interfaces between communication technologies and political cultures, with special emphasis on phenomena related to the repertoires of digital activism, the rhetorical and discursive strategies of actors in the formal field of politics, the dynamics of sociability and political literacy, the political economy of information and the circulation of disinformation and discourse of hate. Associated with the National Institute of Science and Technology in Digital Democracy (INCT.DD), the group brings together researchers dedicated to the area of ​​political communication, at different levels of education. The lines of research include studies on: communication strategies and public opinion, political cultures and collective action, and humor and political discussion.
+
+CoLAB houses different projects. Projects that provide public and material data for this repository include:
+
+* ** # MUSEUdeMEMES **: [#MUSEUdeMEMES] (http://museudememes.com.br) is an extension and scientific dissemination project focused on research on the thematic universe of internet memes.
+
+* ** DDoS Lab **: The Laboratory to Combat Disinformation and Hate Speech in Network Communication Systems (DDoS Lab) develops a continuous and regular monitoring on the activity of extremist networks on WhatsApp and other online social platforms.
+
+* ** Tretas Observatory **: The Tretas Observatory is a project in partnership with Rodrigo Carreiro (UFBA) and the National Institute of Science and Technology in Digital Democracy (INCT.DD). Its main objective is to develop a methodology for systematic monitoring of online political discussions, especially in the Twitter and Facebook environments.
+
+* ** Cooperation Games **: The Cooperation Games project was developed between 2012 and 2017 and developed a * box * of para-educational games involving dilemmas of cooperative action, such as the renowned Prisoner Dilemma. In 2015, the project was awarded the CNPq Highlight for Scientific and Technological Initiation award.
+
+In addition to these projects, the repositories provide data from a series of other coLAB initiatives and their members.
 
 ## Para que serve este repositório?
 
