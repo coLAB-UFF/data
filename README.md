@@ -3,10 +3,8 @@
 
 # Repositório de dados e scripts públicos <br>*Repository for public datasets and scripts*
 
-<small>*[[versão pt_BR]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md) | [[EN version]](https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md)*</small>
-
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md" data-icon="octicon-commenticon" data-size="large" aria-label="english version">English</a> | <a class="github-button" href="https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md" data-icon="octicon-commenticon" data-size="large" aria-label="versão pt_BR">Português</a>
+<a class="github-button" href="https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/en/README.md" data-icon="comment" data-size="large" aria-label="english version">English</a>   <a class="github-button" href="https://github.com/coLAB-UFF/colab-uff.github.io/edit/main/README.md" data-icon="comment" data-size="large" aria-label="versão pt_BR">Português</a>
 
 ## Quem somos? | *Who we are?*
 
