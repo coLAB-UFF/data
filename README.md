@@ -34,13 +34,15 @@ The public repository for *datasets* and *scripts* of the coLAB research group i
 
 * **Documentation**: simple documents informing about procedures adopted in several research stages.
 
-+ Figshare
-Other private data from whatsapp and memes eg are not provided publicly
+Other datasets and materials that eventually contain private data are not included in public repositories.
 
-## Como acesso os dados?
+Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our [coLAB Figshare repository](https://figshare.com/projects/Papers_coLAB/35102).
 
+## How do one access data
 
-## Quem pode utilizar os dados disponíveis neste repositório?
+github link
+
+## Who can use available data
 
 Licenças - não damos suporte
 
@@ -48,11 +50,11 @@ Licenças - não damos suporte
 
 Recomenda-se a consulta prévia aos responsáveis, por meio do email [colab@midia.uff.br](mailto:colab@midia.uff.br), para orientações gerais sobre o uso dos dados.
 
-## Como colaborar?
+## How to collaborate
 
 
 
-## Onde encontrar mais informações
+## Where can one find more info about your projects
 
 Site coLAB
 Site #MUSEU
