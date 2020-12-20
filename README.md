@@ -60,7 +60,7 @@ All derivative works using data from this repository must be equally licensed un
 
 Commercial or private use of the data is not allowed. For this situation, please contact the owners to request authorization. Private and commercial use includes the publication, partially or in full, of the materials available in this repository, without prior authorization, in didactic or commercial books, audiovisual or any other work without the same license adopted for the data available in this repository.
 
-In omitted cases, prior consultation with those responsible is recommended, via email [colab@midia.uff.br](mailto:colab@midia.uff.br), for general guidance on the use of data.
+In omitted cases, prior consultation with those responsible is recommended, via email [`colab@midia.uff.br`](mailto:colab@midia.uff.br), for general guidance on the use of data.
 
 ## How to obtain other data
 
@@ -68,7 +68,7 @@ The Research Laboratory for Communication, Political Cultures and Economies of C
 
 ## How to collaborate
 
-If you have noticed any problem in shared data or if you wish to contribute sending data to this repository, feel free to email us at [colab@midia.uff.br](mailto:colab@midia.uff.br).
+If you have noticed any problem in shared data or if you wish to contribute sending data to this repository, feel free to email us at [`colab@midia.uff.br`](mailto:colab@midia.uff.br).
 
 ## Where can one find more info about your projects
 
@@ -78,3 +78,7 @@ In case of interest, you can follow some of our projects at the following addres
 
 Site coLAB
 Site #MUSEU
+
+?style=flat&logo=appveyor
+
+
