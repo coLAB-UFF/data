@@ -79,6 +79,6 @@ In case of interest, you can follow some of our projects at the following addres
 Site coLAB
 Site #MUSEU
 
-?style=flat&logo=appveyor
+![Twitter URL](https://img.shields.io/twitter/url?label=%23MUSEUdeMEMES&url=http%3A%2F%2Ftwitter.com%2Fmuseudememes)
 
 
