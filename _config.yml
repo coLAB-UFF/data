@@ -5,3 +5,5 @@ description: Public repository for datasets and scripts by the <br>Research Labo
 show_downloads: true
 github:
   repository_url: http://example.com
+  zip_url: false
+  tar_url: false
