@@ -38,7 +38,7 @@ Other datasets and materials that eventually contain private data are not includ
 
 Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our [**coLAB Figshare repository**](https://figshare.com/projects/Papers_coLAB/35102).
 
-## How do one accesses data
+## How do I access the data
 
 All data available in this reposity can be accessed from the coLAB GitHub organization profile. Datasets, scripts and other materials are forked from our researchers' repositories. You can find a summary of these repositories in [`https://github.com/coLAB-UFF`](https://github.com/coLAB-UFF).
 
@@ -70,7 +70,7 @@ The Research Laboratory for Communication, Political Cultures and Economies of C
 
 If you have noticed any problem in shared data or if you wish to contribute sending data to this repository, feel free to email us at [`colab@midia.uff.br`](mailto:colab@midia.uff.br).
 
-## Where can one find more info about your projects
+## Where can I find more info about your projects
 
 In case of interest, you can follow some of our projects at the following addresses:
 
