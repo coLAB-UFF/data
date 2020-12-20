@@ -40,7 +40,7 @@ Articles, papers published in scientific journals or in conference proceedings, 
 
 ## How do one accesses data
 
-All data available in this reposity can be accessed from the coLAB GitHub organization profile. Datasets, scripts and other materials are forked from our researchers' repositories. You can find a summary of these repositories in `[https://github.com/coLAB-UFF](https://github.com/coLAB-UFF)`.
+All data available in this reposity can be accessed from the coLAB GitHub organization profile. Datasets, scripts and other materials are forked from our researchers' repositories. You can find a summary of these repositories in [`https://github.com/coLAB-UFF`](https://github.com/coLAB-UFF).
 
 ## Who can use available data
 
@@ -68,41 +68,13 @@ The Research Laboratory for Communication, Political Cultures and Economies of C
 
 ## How to collaborate
 
-
+If you have noticed any problem in shared data or if you wish to contribute sending data to this repository, feel free to email us at [colab@midia.uff.br](mailto:colab@midia.uff.br).
 
 ## Where can one find more info about your projects
 
+In case of interest, you can follow some of our projects at the following addresses:
+
+<a href="#" class="button icon search">Search</a>
+
 Site coLAB
 Site #MUSEU
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coLAB-UFF/colab.uff.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
