@@ -16,11 +16,11 @@ coLAB houses different projects. Some of the projects that provide public datase
 
 In addition to these projects, the repositories provide data from a series of other coLAB researchers' initiatives.
 
-## What is this repository for?
+## What is this repository for
 
 The purpose of this repository is to store and make publicly available research data and materials used in scientific and technological products by members of the Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB).
 
-## What materials are publicly available?
+## What materials are publicly available
 
 The public repository for *datasets* and *scripts* of the coLAB research group is a GitHub set of repositories that brings together different databases and applications used by researchers associated with the group. The data are made available in an open way to any interested parties. Repositories may host:
 
@@ -36,19 +36,35 @@ The public repository for *datasets* and *scripts* of the coLAB research group i
 
 Other datasets and materials that eventually contain private data are not included in public repositories.
 
-Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our [*coLAB Figshare repository*](https://figshare.com/projects/Papers_coLAB/35102).
+Articles, papers published in scientific journals or in conference proceedings, theses and dissertations, book chapters, and other written products can be retrieved from our [**coLAB Figshare repository**](https://figshare.com/projects/Papers_coLAB/35102).
 
-## How do one access data
+## How do one accesses data
 
-github link
+All data available in this reposity can be accessed from the coLAB GitHub organization profile. Datasets, scripts and other materials are forked from our researchers' repositories. You can find a summary of these repositories in `[https://github.com/coLAB-UFF](https://github.com/coLAB-UFF)`.
 
 ## Who can use available data
 
-Licenças - não damos suporte
+All data available in this repository is licensed under a [Creative Commons CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/br/) license. Please refer to license clauses to resolve doubts about its use.
 
-## Como utilizar os dados disponíveis neste repositório?
+All data presented in our GitHub repositories is provided ***AS-IS***. There are no warranties, expressed or implied, of fitness for a particular purpose, and there is no support provided by coLAB researchers.
 
-Recomenda-se a consulta prévia aos responsáveis, por meio do email [colab@midia.uff.br](mailto:colab@midia.uff.br), para orientações gerais sobre o uso dos dados.
+All data must be referenced as provided by the Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB). In all derivative works, including graphics, tables, or other materials, an attribution should be made as follows:
+
+* English version:
+> Source: Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB).
+
+* Portuguese version:
+> Fonte: Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB).
+
+All derivative works using data from this repository must be equally licensed under a [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/br/) license.
+
+Commercial or private use of the data is not allowed. For this situation, please contact the owners to request authorization. Private and commercial use includes the publication, partially or in full, of the materials available in this repository, without prior authorization, in didactic or commercial books, audiovisual or any other work without the same license adopted for the data available in this repository.
+
+In omitted cases, prior consultation with those responsible is recommended, via email [colab@midia.uff.br](mailto:colab@midia.uff.br), for general guidance on the use of data.
+
+## How to obtain other data
+
+The Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB) reserves the right not to meet particular demands for data provision, with the exception of institutional partners. Following the [guidelines of the International Cooperation Office](http://international.uff.br/how-to-be-a-partner-of-uff/) of the Fluminense Federal University, one can apply to national or international partnerships for scientific cooperation by signing an interinstitutional cooperation agreement. No data except for the publicly available in this repository will be provided without a cooperation agreement.
 
 ## How to collaborate
 
