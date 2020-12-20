@@ -74,11 +74,12 @@ If you have noticed any problem in shared data or if you wish to contribute send
 
 In case of interest, you can follow some of our projects at the following addresses:
 
-<a href="#" class="button icon search">Search</a>
+**coLAB**
+* Official site: [http://colab.uff.br](http://colab.uff.br)
 
-Site coLAB
-Site #MUSEU
-
-![Twitter URL](https://img.shields.io/twitter/url?label=%23MUSEUdeMEMES&url=http%3A%2F%2Ftwitter.com%2Fmuseudememes)
-
-
+**#MUSEUdeMEMES**
+* Project site: [http://museudememes.com.br](http://museudememes.com.br)
+* Facebook: [https://pt-br.facebook.com/museudememes/](https://pt-br.facebook.com/museudememes/)
+* Twitter: [https://twitter.com/museudememes](https://twitter.com/museudememes)
+* Instagram: [https://www.instagram.com/museudememes/](https://www.instagram.com/museudememes/)
+* YouTube: [https://www.youtube.com/c/museudemes](https://www.youtube.com/c/museudemes)
