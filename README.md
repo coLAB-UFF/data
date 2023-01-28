@@ -1,3 +1,9 @@
+# data
+
+Landpage for coLAB Datasets and Ethical Guidelines.
+
+Please refer to [colab-uff.github.io/data](https://colab-uff.github.io/data).
+
 # Repository for public datasets and scripts
 
 ## Who we are
