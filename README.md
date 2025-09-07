@@ -1,20 +1,20 @@
 # data
 
-Landpage for coLAB Datasets and Ethical Guidelines.
+Landpage for coLAB Datasets and Ethical Guidelines: [colab-uff.github.io/data](https://colab-uff.github.io/data).
 
-Please refer to [colab-uff.github.io/data](https://colab-uff.github.io/data).
+*If you are looking for coLAB/UFF official website please refer to [colab.uff.br](https://colab.uff.br)*
 
 # Repository for public datasets and scripts
 
 ## Who we are
 
-The [Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB)](http://colab.uff.br), hosted by Fluminense Federal University (UFF), develops research aimed at understanding the interfaces between communication technologies and political cultures, with special emphasis on phenomena related to repertoires of digital activism, rhetorical and discursive strategies of actors in the formal field of politics, dynamics of sociability and political literacy, political economy of information and circulation of disinformation and hate speech. Associated to the Brazilian National Institute of Science and Technology in Digital Democracy (INCT.DD), the group brings together researchers dedicated to the area of political communication, at different education degrees. Research lines include studies on: communication strategies and public opinion, political cultures and collective action, and humor and political discussion.
+The [Research Laboratory for Communication, Political Cultures and Economies of Collaboration (coLAB)](http://colab.uff.br), hosted by Fluminense Federal University (UFF), conducts investigations aimed at understanding the intersections between digital culture and political culture, with an emphasis on studies of contentious repertoires and strategic uses of affordances in digital platforms, platform culture and online politics, influence operations, the circulation of disinformation, and hate speech, among other topics. Associated to the Brazilian National Institute of Science and Technology for Digital Democracy (INCT.dd), the group brings together researchers dedicated to the field of political communication, at different education degrees. Research lines include studies on: communication strategies and public opinion, political cultures and collective action, and humor and political discussion.
 
 coLAB houses different projects. Some of the projects that provide public datasets and materials for this repository are:
 
 * **#MUSEUdeMEMES** (#MEMEmuseum): [#MUSEUdeMEMES](http://museudememes.com.br) is a project focused on researching and cataloguing the universe of Brazilian internet memes.
 
-* **DDoS Lab**: The Laboratory to Combat Disinformation and Hate Speech in Network Communication Systems (DDoS Lab) develops a continuous and regular monitoring on the activity of extremist far-right networks on WhatsApp and other online social platforms.
+* **DDoS Lab**: [DDoS Lab](http://colab.uff.br/ddoslab) is branch of coLAB known as the Laboratory for Combating Disinformation and Hate Speech in Networked Communication Systems. It develops a continuous and regular monitoring on the activity of extremist far-right networks on digital platforms and private messaging services.
 
 * **Observatório de Tretas** (Observatory of Political Tretas): "Treta" is a Brazilian slang to flamed discussion or public controversy. The Observatory of Political Tretas is a project in partnership with Rodrigo Carreiro (UFBA) and the Brazilian National Institute of Science and Technology in Digital Democracy (INCT.DD). Its main goal is to develop a methodology for systematic monitoring of online political discussions, especially in Twitter and Facebook environments.
 
@@ -82,6 +82,9 @@ In case of interest, you can follow some of our projects at the following addres
 
 **coLAB**
 * [Official site](http://colab.uff.br)
+
+**DDoS Lab**
+* [Project site](http://colab.uff.br/ddoslab)
 
 **#MUSEUdeMEMES**
 * [Project site](http://museudememes.com.br)
